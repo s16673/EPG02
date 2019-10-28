@@ -1,0 +1,34 @@
+typ nazwaZmiennnej;
+int calkowita = 5;
+float x = 5; float y = 5.5f; //koniecznie po zmiennoprzecinkowej pisać f//
+bool b = true; bool b = false;
+string s = "Hello"; //napisy//
+
+if //warunki//
+
+if (warunek)
+if(true) {
+ coś się wydarzy
+}
+if (false) {
+ coś się wydarzy lub nie
+} else {
+ coś się znowu wydarzy, ale tylko jak się wcześniej nie wydarzyło
+}
+
+if(b==false) // porównanie z == i sprawdzenie czy wartość jest taka jaką określliliśmy //
+
+if(x>0) {
+
+} else if (x<0){
+
+} else {
+(x==0)
+}
+
+x>0
+x>=0
+x==y //przy porównaniu trzeba użyć zmiennej tego samego rodzaju, np. 2 floaty//
+x<0
+x<=0
+x!=0 // różne //
