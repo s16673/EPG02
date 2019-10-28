@@ -1,0 +1,91 @@
+fileFormatVersion: 2
+guid: aa03d98e067e068409f849f9eb7e5406
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/tiled_map_001
+    100002: _MapPrfab/tiled_map_001/Grid
+    100004: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 1"
+    100006: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 2"
+    100008: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1
+    100010: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_1
+    100012: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_2
+    100014: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_3
+    100016: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_4
+    100018: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_5
+    100020: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_6
+    100022: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_7
+    400000: _MapPrfab/tiled_map_001/Transform
+    400002: _MapPrfab/tiled_map_001/Grid/Transform
+    400004: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 1/Transform"
+    400006: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 2/Transform"
+    400008: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Transform
+    400010: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_1/Transform
+    400012: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_2/Transform
+    400014: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_3/Transform
+    400016: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_4/Transform
+    400018: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_5/Transform
+    400020: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_6/Transform
+    400022: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_7/Transform
+    6000000: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_1/PolygonCollider2D
+    6100000: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_2/BoxCollider2D
+    6100002: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_3/BoxCollider2D
+    6100004: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_4/BoxCollider2D
+    6100006: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_5/BoxCollider2D
+    6100008: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_6/BoxCollider2D
+    6100010: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_7/BoxCollider2D
+    11400000: _MapPrfab/tiled_map_001/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/tiled_map_001/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer"
+    11400006: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties"
+    11400008: _superAsset
+    11400010: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer"
+    11400012: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties"
+    11400014: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400016: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400018: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_1/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400020: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_1/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400022: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400024: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_2/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400026: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_2/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400028: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400030: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_3/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400032: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_3/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400034: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400036: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_4/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400038: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_4/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400040: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400042: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_5/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400044: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_5/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400046: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_5/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400048: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_6/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400050: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_6/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400052: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_6/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400054: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_7/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400056: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_7/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400058: _MapPrfab/tiled_map_001/Grid/Warstwa Obiektu 1/Object_7/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/tiled_map_001/Grid/Grid
+    3664157343022684176: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 1/TilemapRenderer"
+    3664157343022684178: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 2/TilemapRenderer"
+    8195094279510102542: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 1/Tilemap"
+    8195094279510102544: "_MapPrfab/tiled_map_001/Grid/Warstwa Kafelk\xF3w 2/Tilemap"
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 18
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
